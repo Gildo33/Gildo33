@@ -1,6 +1,6 @@
 ## Hi there :pray: :pencil2:
 
-Eu sou o Gildo Felismino,sou um programador front end.No momento estou aprendendo e criando prjetos com:
+Eu sou o Gildo Felismino,sou um programador front end.No momento estou aprendendo e criando projetos com:
 
 - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <br>
